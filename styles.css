@@ -1,0 +1,218 @@
+:root {
+    --clr-primary-200: #323232;
+    --clr-primary-400: #212529;
+    
+  
+    --clr-assent-0: whiteSmoke;
+    --clr-clearShade: rgba(0,0,0,.4);
+    
+  }
+  .tag{
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 5%;
+    border-top: 1px solid white;
+    padding-top: 3%;
+
+  }
+
+  .text{
+    font-family: 'Merriweather', serif;
+}
+#target{
+    font-family: 'Nova Square', cursive;
+    
+}
+.headings h5, .searchHeading h5, .head{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+
+}
+.percent{
+    font-size: 0.8rem;
+}
+.number{
+    font-family: 'Eczar', serif;
+}
+ .topDiv{
+    background-color: var(--clr-primary-400);
+    text-align: center;
+    color: white;
+    box-shadow: 0 0 50px rgb(206, 204, 204);
+    width: 80%;
+    margin: 0 auto;
+    padding: 5%;
+    margin-bottom: 4%;
+    
+
+ }
+
+ .headings{
+    background-color: var(--clr-primary-400);
+    border: 1px solid white;
+    width: 70%;
+    margin: 0 auto;
+}
+.moveTitle{
+    padding-left: 3%;
+    border-right: 1px solid white;
+
+}
+.moveTitle1{
+    padding-left: 6.5%;
+    border-right: 1px solid white;
+}
+.topBox{
+    width: 60%;
+    border: 2px solid white;
+    margin: 0 auto;
+    padding: 3%;
+    box-shadow: 0 0 50px rgb(206, 204, 204);
+}
+.topHeading{
+    margin-bottom: 5%;
+    text-decoration: underline;
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+
+
+#background{
+    background-color: rgb(87, 86, 86);
+    padding:  2% 0 0 0;
+  
+    
+}
+
+
+.listContainer{
+background-color: var(--clr-primary-400);
+font-size: 1.3rem;
+display: flex;
+flex-direction: column;
+width: 70%;
+margin: 0 auto;
+padding: 5% 2%;
+box-shadow: 0 0 50px rgb(206, 204, 204);
+
+
+}
+.listItem{
+ display: flex;
+ flex-direction: row;
+ height: 4rem;
+ padding: .5%;
+ padding-right: 2%;
+ background-color:var(--clr-primary-400);
+ color: white;
+ 
+
+}
+
+.gap{
+display: inline-block;
+margin-right: 1rem;
+
+}
+
+.pic{
+    width: 50px;
+    height: 50px;
+}
+
+.split 
+{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+.titles{
+    border: 2px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
+.heading{
+    width: 500px;
+}
+
+
+
+.item 
+{
+margin: auto;
+text-align: center;
+width: 40%;
+
+}
+.rank{
+margin: auto;
+text-align: center;
+padding: 0 1rem;
+margin-right: 3rem;
+
+}
+
+.searchHeading{
+
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 5%;
+    border: 1px solid white;
+    padding: 1%;
+
+}
+#search{
+    margin: 2% 0;
+}
+
+.col{
+    color: white;
+}
+
+.searchDiv{
+
+    background-color: var(--clr-primary-400);
+    color: white;
+}
+.chartContain{
+   width: 90%;
+   height: 15rem;
+   margin: 5% auto;
+   
+}
+
+footer{
+    padding: 3%;
+    background-color: var(--clr-primary-400);
+    text-align: center;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    margin-top: 5%;
+   
+   
+}
+
+#searchBody{
+
+    background-color: rgb(87, 86, 86);
+    padding-bottom: 0;
+
+}
+.searchContainer{
+    text-align: center;
+    background-color: var(--clr-primary-400);
+    padding: 5%;
+    width: 90%;
+    margin: 0 auto;
+    box-shadow: 0 0 50px rgb(206, 204, 204);
+    margin-bottom: 5%;
+}
+.info{
+    color: white;
+   
+}
